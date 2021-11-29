@@ -1,4 +1,4 @@
-#About the Game
+# About the Game
 
 This was just a side project i worked on while watching a stream, so don't expect me to fix the bugs
 There are only 4 blocks becaue i was lazy
