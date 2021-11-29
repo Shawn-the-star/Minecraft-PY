@@ -1,7 +1,7 @@
 # About the Game
 
-This was just a side project i worked on while watching a stream, so don't expect me to fix the bugs
-There are only 4 blocks becaue i was lazy
+This was just a side project i worked on while watching a stream, so don't expect me to fix the bugs.
+There are only 4 blocks becaue i was lazy. the world is 25 x 25 blocks 
 
 # Controls
 ```
